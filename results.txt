@@ -1,1 +1,1 @@
-{"size":{"size": {"results": [20],"unit": "s","resultInterpretation": "LESS_IS_BETTER"}}}
+{"size":{"size": {"results": [25],"unit": "s","resultInterpretation": "LESS_IS_BETTER"}}}
